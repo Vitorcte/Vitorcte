@@ -1,4 +1,4 @@
-- 👋 Olá, Meu nome é Vitor Cavalcante sou designer grafico e estudante de programação de sistemas com o foco em java, Python, minha paixão por tecnologia me motiva a explorar constantemente novas
+- 👋 Olá, Meu nome é Vitor Cavalcante sou designer grafico estudo programação de sistemas com o foco em java e MySQL, minha paixão por tecnologia me motiva a explorar constantemente novas
 - soluções e aprimorar minhas habilidades de desenvolvimento.
 - 👀 Tenho interesse em trabalho remoto para o desenvolvimento de software   
 - 🌱 Atualmente estou apredendo programação
