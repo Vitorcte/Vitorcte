@@ -1,13 +1,6 @@
-- 👋 Ola, Meu nome é Vitor Cavalcante sou designer grafico e estudante de programação de sistemas com o foco em java, Python, minha paixão por tecnologia me motiva a explorar constantemente novas
+- 👋 Olá, Meu nome é Vitor Cavalcante sou designer grafico e estudante de programação de sistemas com o foco em java, Python, minha paixão por tecnologia me motiva a explorar constantemente novas
 - soluções e aprimorar minhas habilidades de desenvolvimento.
-- 👀 Estou sempre em busca de projetos desafiadores que me permitam crescer profissionalmente e contribuir para a comunidade de desenvolvedores.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Vitorcte/Vitorcte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Tenho interesse em trabalho remoto para o desenvolvimento de software   
+- 🌱 Atualmente estou apredendo programação
+- 💞️ Estou em busca de projetos desafiadores que me permitam crescer profissionalmente e contribuir para a comunidade de desenvolvedores.
+- 📫 Como me encontrar vitorcavalcante322@gmail.com
